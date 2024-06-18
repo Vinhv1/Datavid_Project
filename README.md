@@ -11,4 +11,12 @@ Open your terminal and execute the following commands
   git clone [paste the HTTPS link you copied]
   cd Datavid_Project
   npm install
+  cd frontend/
+  npm install
+  cd ..
+  cd backend/
+  npm install
+  cd ..
   npm start  
+
+## ToDo
